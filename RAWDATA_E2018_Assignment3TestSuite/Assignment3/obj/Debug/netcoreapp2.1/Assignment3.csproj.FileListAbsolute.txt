@@ -1,0 +1,14 @@
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3\bin\Debug\netcoreapp2.1\Assignment3.deps.json
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3\bin\Debug\netcoreapp2.1\Assignment3.runtimeconfig.json
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3\bin\Debug\netcoreapp2.1\Assignment3.runtimeconfig.dev.json
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3\bin\Debug\netcoreapp2.1\Assignment3.dll
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3\bin\Debug\netcoreapp2.1\Assignment3.pdb
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3\obj\Debug\netcoreapp2.1\Assignment3.csprojAssemblyReference.cache
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3\obj\Debug\netcoreapp2.1\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3\obj\Debug\netcoreapp2.1\Assignment3.AssemblyInfoInputs.cache
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3\obj\Debug\netcoreapp2.1\Assignment3.AssemblyInfo.cs
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3\obj\Debug\netcoreapp2.1\Assignment3.csproj.CopyComplete
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3\obj\Debug\netcoreapp2.1\Assignment3.dll
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3\obj\Debug\netcoreapp2.1\Assignment3.pdb

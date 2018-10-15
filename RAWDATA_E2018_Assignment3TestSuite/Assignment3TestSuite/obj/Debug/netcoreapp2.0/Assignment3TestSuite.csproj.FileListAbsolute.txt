@@ -1,0 +1,14 @@
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3TestSuite\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3TestSuite\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3TestSuite\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3TestSuite\bin\Debug\netcoreapp2.0\Assignment3TestSuite.deps.json
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3TestSuite\bin\Debug\netcoreapp2.0\Assignment3TestSuite.runtimeconfig.json
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3TestSuite\bin\Debug\netcoreapp2.0\Assignment3TestSuite.runtimeconfig.dev.json
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3TestSuite\bin\Debug\netcoreapp2.0\Assignment3TestSuite.dll
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3TestSuite\bin\Debug\netcoreapp2.0\Assignment3TestSuite.pdb
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3TestSuite\obj\Debug\netcoreapp2.0\Assignment3TestSuite.csprojAssemblyReference.cache
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3TestSuite\obj\Debug\netcoreapp2.0\Assignment3TestSuite.csproj.CoreCompileInputs.cache
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3TestSuite\obj\Debug\netcoreapp2.0\Assignment3TestSuite.AssemblyInfoInputs.cache
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3TestSuite\obj\Debug\netcoreapp2.0\Assignment3TestSuite.AssemblyInfo.cs
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3TestSuite\obj\Debug\netcoreapp2.0\Assignment3TestSuite.dll
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\Assignment3TestSuite\obj\Debug\netcoreapp2.0\Assignment3TestSuite.pdb

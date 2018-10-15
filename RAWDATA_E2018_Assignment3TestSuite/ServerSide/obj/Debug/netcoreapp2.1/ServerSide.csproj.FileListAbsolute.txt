@@ -1,0 +1,11 @@
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\ServerSide\obj\Debug\netcoreapp2.1\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\ServerSide\obj\Debug\netcoreapp2.1\ServerSide.AssemblyInfoInputs.cache
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\ServerSide\obj\Debug\netcoreapp2.1\ServerSide.AssemblyInfo.cs
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\ServerSide\bin\Debug\netcoreapp2.1\ServerSide.deps.json
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\ServerSide\bin\Debug\netcoreapp2.1\ServerSide.runtimeconfig.json
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\ServerSide\bin\Debug\netcoreapp2.1\ServerSide.runtimeconfig.dev.json
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\ServerSide\bin\Debug\netcoreapp2.1\ServerSide.dll
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\ServerSide\bin\Debug\netcoreapp2.1\ServerSide.pdb
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\ServerSide\obj\Debug\netcoreapp2.1\ServerSide.csprojAssemblyReference.cache
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\ServerSide\obj\Debug\netcoreapp2.1\ServerSide.dll
+C:\Users\Devendra\source\repos\RAWDATA_E2018_Assignment3TestSuite\ServerSide\obj\Debug\netcoreapp2.1\ServerSide.pdb
