@@ -1,0 +1,11 @@
+C:\Users\Devendra\source\repos\Assignment3Server\Assignment3Server\bin\Debug\netcoreapp2.1\Assignment3Server.deps.json
+C:\Users\Devendra\source\repos\Assignment3Server\Assignment3Server\bin\Debug\netcoreapp2.1\Assignment3Server.runtimeconfig.json
+C:\Users\Devendra\source\repos\Assignment3Server\Assignment3Server\bin\Debug\netcoreapp2.1\Assignment3Server.runtimeconfig.dev.json
+C:\Users\Devendra\source\repos\Assignment3Server\Assignment3Server\bin\Debug\netcoreapp2.1\Assignment3Server.dll
+C:\Users\Devendra\source\repos\Assignment3Server\Assignment3Server\bin\Debug\netcoreapp2.1\Assignment3Server.pdb
+C:\Users\Devendra\source\repos\Assignment3Server\Assignment3Server\obj\Debug\netcoreapp2.1\Assignment3Server.csproj.CoreCompileInputs.cache
+C:\Users\Devendra\source\repos\Assignment3Server\Assignment3Server\obj\Debug\netcoreapp2.1\Assignment3Server.AssemblyInfoInputs.cache
+C:\Users\Devendra\source\repos\Assignment3Server\Assignment3Server\obj\Debug\netcoreapp2.1\Assignment3Server.AssemblyInfo.cs
+C:\Users\Devendra\source\repos\Assignment3Server\Assignment3Server\obj\Debug\netcoreapp2.1\Assignment3Server.dll
+C:\Users\Devendra\source\repos\Assignment3Server\Assignment3Server\obj\Debug\netcoreapp2.1\Assignment3Server.pdb
+C:\Users\Devendra\source\repos\Assignment3Server\Assignment3Server\obj\Debug\netcoreapp2.1\Assignment3Server.csprojAssemblyReference.cache
